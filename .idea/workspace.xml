@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46e6a4-e48f-47de-ad36-2780ad0ee20f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/page.njk" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/page.njk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601640928253</updated>
-      <workItem from="1601640929305" duration="2565000" />
+      <workItem from="1601640929305" duration="3639000" />
     </task>
     <task id="LOCAL-00001" summary="test bonjour monde">
       <created>1601641264322</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601643380210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="font tailwind css">
+      <created>1601643601256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601643601256</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,13 +101,14 @@
     <MESSAGE value="test bonjour monde" />
     <MESSAGE value="seconde page" />
     <MESSAGE value="couleur custom tailwind css" />
-    <option name="LAST_COMMIT_MESSAGE" value="couleur custom tailwind css" />
+    <MESSAGE value="font tailwind css" />
+    <option name="LAST_COMMIT_MESSAGE" value="font tailwind css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2" timestamp="1601643380035">
+    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2" timestamp="1601643601067">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2/0.0.1920.1054@0.0.1920.1054" timestamp="1601643380035" />
+    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2/0.0.1920.1054@0.0.1920.1054" timestamp="1601643601067" />
     <state width="454" height="278" key="GridCell.Tab.0.bottom" timestamp="1601641753752">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
