@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46e6a4-e48f-47de-ad36-2780ad0ee20f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/portefolio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/page.njk" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/page.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portefolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/portefolio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601640928253</updated>
-      <workItem from="1601640929305" duration="693000" />
+      <workItem from="1601640929305" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="test bonjour monde">
       <created>1601641264322</created>
@@ -68,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601641264322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="seconde page">
+      <created>1601641775638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601641775638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,32 +86,33 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test bonjour monde" />
-    <option name="LAST_COMMIT_MESSAGE" value="test bonjour monde" />
+    <MESSAGE value="seconde page" />
+    <option name="LAST_COMMIT_MESSAGE" value="seconde page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2" timestamp="1601641264159">
+    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2" timestamp="1601641775482">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2/0.0.1920.1054@0.0.1920.1054" timestamp="1601641264159" />
-    <state width="909" height="278" key="GridCell.Tab.0.bottom" timestamp="1601641057178">
+    <state x="1025" y="99" width="814" height="861" key="CommitChangelistDialog2/0.0.1920.1054@0.0.1920.1054" timestamp="1601641775482" />
+    <state width="454" height="278" key="GridCell.Tab.0.bottom" timestamp="1601641753752">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="909" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1601641057178" />
-    <state width="909" height="278" key="GridCell.Tab.0.center" timestamp="1601641057178">
+    <state width="454" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1601641753752" />
+    <state width="454" height="278" key="GridCell.Tab.0.center" timestamp="1601641753752">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="909" height="278" key="GridCell.Tab.0.center/0.0.1920.1054@0.0.1920.1054" timestamp="1601641057178" />
-    <state width="909" height="278" key="GridCell.Tab.0.left" timestamp="1601641057178">
+    <state width="454" height="278" key="GridCell.Tab.0.center/0.0.1920.1054@0.0.1920.1054" timestamp="1601641753752" />
+    <state width="454" height="278" key="GridCell.Tab.0.left" timestamp="1601641753752">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="909" height="278" key="GridCell.Tab.0.left/0.0.1920.1054@0.0.1920.1054" timestamp="1601641057178" />
-    <state width="909" height="278" key="GridCell.Tab.0.right" timestamp="1601641057178">
+    <state width="454" height="278" key="GridCell.Tab.0.left/0.0.1920.1054@0.0.1920.1054" timestamp="1601641753752" />
+    <state width="454" height="278" key="GridCell.Tab.0.right" timestamp="1601641753752">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="909" height="278" key="GridCell.Tab.0.right/0.0.1920.1054@0.0.1920.1054" timestamp="1601641057178" />
-    <state x="1031" y="263" width="802" height="534" key="Vcs.Push.Dialog.v2" timestamp="1601641334303">
+    <state width="454" height="278" key="GridCell.Tab.0.right/0.0.1920.1054@0.0.1920.1054" timestamp="1601641753752" />
+    <state x="1031" y="263" width="802" height="534" key="Vcs.Push.Dialog.v2" timestamp="1601642016453">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state x="1031" y="263" width="802" height="534" key="Vcs.Push.Dialog.v2/0.0.1920.1054@0.0.1920.1054" timestamp="1601641334303" />
+    <state x="1031" y="263" width="802" height="534" key="Vcs.Push.Dialog.v2/0.0.1920.1054@0.0.1920.1054" timestamp="1601642016453" />
   </component>
 </project>

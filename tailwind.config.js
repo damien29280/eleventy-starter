@@ -7,7 +7,11 @@ module.exports = {
     enabled: false,
   },
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'tomate': '#FF0012',
+      }
+    },
   },
   variants: {},
   plugins: [],

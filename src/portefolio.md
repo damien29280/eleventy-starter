@@ -2,7 +2,7 @@
 layout: page
 title: Portefolio
 eleventyNavigation:
-  key: bonjour
+  key: portefolio
 ---
 
 message
