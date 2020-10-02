@@ -7,13 +7,7 @@ module.exports = {
         enabled: false,
     },
     theme: {
-        fontFamily: {
-            'sans': ['-apple-system', 'BlinkMacSystemFont',],
-            'serif': ['Georgia', 'Cambria',],
-            'mono': ['SFMono-Regular', 'Menlo',],
-            'display': ['Oswald',],
-            'body': ['Open Sans',],
-        },
+
         extend: {
             colors: {
                 'tomate': '#FF0012',
@@ -21,6 +15,9 @@ module.exports = {
             },
             screens: {
                 'portrait': {'raw': '(orientation: portrait)'},            }
+        },
+        fontFamily: {
+            'sans': ['-apple-system', 'BlinkMacSystemFont'],
         },
     },
     variants: {},
